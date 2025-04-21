@@ -46,4 +46,9 @@ Utilizamos objetos das classes filhas (`ContaCorrente` e `ContaPoupanca`) como r
 ---
 
 ## 📌 Exemplo de Saída
-
+Extrato Conta Corrente
+Titular: José da Silva
+Saldo: 700.0
+Extrato Conta Poupança
+Titular: José da Silva
+Saldo: 300.0
